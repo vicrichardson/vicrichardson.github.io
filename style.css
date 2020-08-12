@@ -160,7 +160,7 @@ ul#menu li a
   text-align: center;
   color: #FFF;
   text-decoration: none;
-  background: #635B53 url(tab.png) no-repeat 100% 0;} 
+  background: #E7D6CE url(tab.png) no-repeat 100% 0;} 
 
 ul#menu li.tab_selected a
 { height: 20px;
@@ -168,10 +168,10 @@ ul#menu li.tab_selected a
 
 ul#menu li.selected
 { margin: 2px 2px 0 0;
-  background: #635B53 url(tab_selected.png) no-repeat 0 0;}
+  background: #E7D6CE url(tab_selected.png) no-repeat 0 0;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #635B53 url(tab_selected.png) no-repeat 100% 0;
+{ background: #E7D6CE url(tab_selected.png) no-repeat 100% 0;
   color: #111;}
 
 ul#menu li a:hover
