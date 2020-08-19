@@ -95,7 +95,7 @@ ol li
 { padding-bottom: 20px;}
 
 #header
-{ background: #E7D6CE;
+{ background: #153315;
   height: 170px;
   margin-bottom: 30px;}
 
@@ -115,7 +115,7 @@ ol li
 { width: 878px;
   position: relative;
   height: 134px;
-  background: #E7D6CE url(logoDWL2.png) no-repeat;}
+  background: #000000 url(logoDWL2.png) no-repeat;}
 
 #logo #logo_text 
 { position: absolute; 
